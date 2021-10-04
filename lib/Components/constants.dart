@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const kscafpadding = 16.0;
+const kbigpadding = 40.0;
+const kpaddintop = 86.0;
+const kbggrey = Color(0xFFE7EBF0);
+const kblueGREY = Color(0xFF2B4469);
+const kblue = Colors.blue;
+const kyellow = Color(0xFFFBDB6D);
+const ktextColor = Color(0xFF414B5A  );
+const kred = Color(0xFFE71010);
+const kwhite = Colors.white;
+const kbnbcolor = Color(0xFF212121);
+const kblackcolor = Color(0xFF000000);
+const gradienColor1 = Color(0xFFE7EBF0);
+const gradienColor2 = Color(0xFFFFFFFF);
+const ktextSizeL = 22.0;
+const ktextSizeN = 16.0;
+const ktextSizeS = 14.0;
+const ktextSizeM = 20.0;
